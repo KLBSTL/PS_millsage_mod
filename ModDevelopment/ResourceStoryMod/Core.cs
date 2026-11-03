@@ -17,7 +17,7 @@ namespace ResourceStoryMod
 {
     public sealed class Core : MelonMod
     {
-        internal const string ModVersion="0.37.4";
+        internal const string ModVersion="0.37.5";
         internal static Core Instance;
         internal static readonly JsonSerializerOptions Json = new() { WriteIndented = true, PropertyNameCaseInsensitive = true };
         internal string Root, DataRoot;

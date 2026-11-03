@@ -1,13 +1,13 @@
-# 米尔赛奇：旧物与余音
+# millsage: 旧物与余音
 
-《Probably Stolen》Windows Steam 正式版的剧情与经营 Mod。你会在自己的旧物店接待米尔赛奇的成员，经由柜台来访、器材整备、电话预约和演出推进一条完整故事线。剧情采用「独读」「独自离场」路线，共 31 场。
+《Probably Stolen》Windows Steam 正式版的剧情与经营 Mod。你会在自己的旧物店接待 millsage 的成员，经由柜台来访、器材整备、电话预约和演出推进一条完整故事线。剧情采用「独读」「独自离场」路线，共 31 场。
 
 ## 下载与安装
 
-1. 在 [GitHub Releases](https://github.com/KLBSTL/PS_millsage_mod/releases) 下载 **PS_Millsage_Mod_v0.37.4_Windows.zip**。
+1. 在 [GitHub Releases](https://github.com/KLBSTL/PS_millsage_mod/releases) 下载 **PS_Millsage_Mod_v0.37.5_Windows.zip**。
 2. 退出游戏。在 Steam 库右键游戏，选择 **管理 → 浏览本地文件**，打开含有 `Probably Stolen.exe` 的正式版安装目录。
 3. 把 ZIP 内的 `Mods`、`ModDevelopment`、`ModWorkbench` 三个文件夹解压到这里。Windows 提示时合并同名目录。安装后应能看到 `Mods/Millsage/manifest.xml`。
-4. 启动游戏，在主菜单的 **MOD** 中勾选 **米尔赛奇：旧物与余音**。首次启用时，游戏可能要求确认清单里的文件和运行权限。按游戏提示重启。
+4. 启动游戏，在主菜单的 **MOD** 中勾选 **millsage: 旧物与余音**。首次启用时，游戏可能要求确认清单里的文件和运行权限。按游戏提示重启。
 5. 新建一个专用于本 Mod 的存档，正常开店，留意柜台来访、物品便条和电话。Mod 启用期间会优先使用简体中文界面与物品文本，游戏原有的语言选项会保留。
 
 请使用 Release 的 Windows 安装包。GitHub 自动生成的 **Source code** 压缩包用于维护源码。运行使用游戏自带的 MOD 加载器，预编译 DLL 和运行依赖已经随包提供。兼容性以 Steam Windows 正式版 **BuildID 26337366** 为基准。

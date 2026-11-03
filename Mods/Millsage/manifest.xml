@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Mod>
   <ID>local.millsage.story</ID>
-  <Name>米尔赛奇：旧物与余音</Name>
+  <Name>millsage: 旧物与余音</Name>
   <Author>Local ModWorkbench</Author>
-  <ModVersion>0.37.4</ModVersion>
+  <ModVersion>0.37.5</ModVersion>
   <Description>独读与独自离场单线剧情、器材检修与普通经营扩展。仅通过游戏内MOD菜单激活，启停后按原版要求重启。模组启用期间优先显示简体中文，保留游戏语言设置。请为模组使用独立存档。</Description>
   <GameVersions/>
   <Prerequisites/>
