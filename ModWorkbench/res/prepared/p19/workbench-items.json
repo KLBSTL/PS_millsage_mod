@@ -1,0 +1,135 @@
+{
+  "version": 1,
+  "generator": "built-in imagegen",
+  "style": "参照正式版原版工具箱和解序器，低分辨率色块、低饱和灰绿或灰紫、少量局部磨损、透明单件，按实际占格取景。",
+  "entries": [
+    {
+      "sku": "ms_tool_basic_inspector",
+      "width": 3,
+      "height": 2,
+      "file": "items/ms_tool_basic_inspector-7a539eb031b799ea.png",
+      "sha256": "7A539EB031B799EA5FF90E244E9BC4ACD978147F5353D40B3E4371405D1882DD",
+      "sourceRect": [
+        334,
+        269,
+        868,
+        497
+      ],
+      "rotate": 0,
+      "reviewed": true,
+      "prompt": "用户选图，蓝灰基础检测仪"
+    },
+    {
+      "sku": "ms_machine_calibrator",
+      "width": 4,
+      "height": 3,
+      "file": "items/ms_machine_calibrator-d02a88617c43fdd3.png",
+      "sha256": "D02A88617C43FDD36CC16795E1DB090EC310D952E181A76A9EE01261AB8DE74E",
+      "sourceRect": [
+        236,
+        161,
+        975,
+        792
+      ],
+      "rotate": 0,
+      "reviewed": true,
+      "prompt": "用户选图，灰紫专业检测仪"
+    },
+    {
+      "sku": "ms_machine_electrobench",
+      "width": 5,
+      "height": 4,
+      "file": "items/ms_machine_electrobench-c8160389d9e5dcc6.png",
+      "sha256": "C8160389D9E5DCC6BE6F6CF0BBA9BF0302796E21C31490FFB5CB3A2BF6295DE1",
+      "sourceRect": [
+        105,
+        207,
+        1192,
+        780
+      ],
+      "rotate": 0,
+      "reviewed": true,
+      "prompt": "灰绿整备设备，蓝灰表盘和暗色托盘，单橙色扣件。"
+    },
+    {
+      "sku": "ms_gear_synth_damaged",
+      "width": 10,
+      "height": 4,
+      "file": "items/ms_gear_synth_damaged-9febfeb078f7e8e3.png",
+      "sha256": "9FEBFEB078F7E8E37E029A9FAA4CE22AD7EDEE7E4492F01A6D5076994AC7103A",
+      "sourceRect": [
+        25,
+        26,
+        1933,
+        740
+      ],
+      "rotate": 0,
+      "reviewed": true,
+      "prompt": "用户选图，正俯视带提手酒红合成器"
+    },
+    {
+      "sku": "ms_part_stabilizer_pickup",
+      "width": 2,
+      "height": 2,
+      "file": "items/ms_part_stabilizer_pickup-660ae2bba431e9b9.png",
+      "sha256": "660AE2BBA431E9B99D9C5AD4F85C0A0888937DA50EDFD3596A464910B05D26E1",
+      "sourceRect": [
+        240,
+        292,
+        776,
+        700
+      ],
+      "rotate": 0,
+      "reviewed": true,
+      "prompt": "方形灰绿底板、暗色双排磁柱和铜端子。"
+    },
+    {
+      "sku": "ms_part_stabilizer_pickup_commercial",
+      "width": 2,
+      "height": 2,
+      "file": "items/ms_part_stabilizer_pickup_commercial-0d8a652a6e4dfbf7.png",
+      "sha256": "0D8A652A6E4DFBF793F2B258945CECD2292528C3626C60FE7910340B436C93DA",
+      "sourceRect": [
+        159,
+        230,
+        925,
+        836
+      ],
+      "rotate": 0,
+      "reviewed": true,
+      "prompt": "灰钢双排拾音器、蓝灰转接座和单个黄铜接头。"
+    },
+    {
+      "sku": "ms_module_quick_patch",
+      "width": 2,
+      "height": 2,
+      "file": "items/ms_module_quick_patch-d430b7821201f4d2.png",
+      "sha256": "D430B7821201F4D2523541620D793977F0B2FBD6627EA27883E9F9102D58C3F3",
+      "sourceRect": [
+        140,
+        190,
+        974,
+        871
+      ],
+      "rotate": 0,
+      "reviewed": true,
+      "prompt": "方形灰绿快接模组，两端钢锁扣和蓝灰色面。"
+    },
+    {
+      "sku": "ms_story_stage_transport_case",
+      "width": 4,
+      "height": 4,
+      "file": "items/ms_story_stage_transport_case-7c2b5ac463c4e76f.png",
+      "sha256": "7C2B5AC463C4E76FE2128428FC116D4CB4D4C0925290F248274488BB3B6A0270",
+      "sourceRect": [
+        113,
+        152,
+        1028,
+        977
+      ],
+      "rotate": 0,
+      "reviewed": true,
+      "prompt": "深灰紫方形运输箱，钢包边、暗把手和橙色锁扣。"
+    }
+  ]
+}

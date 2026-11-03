@@ -1,0 +1,24 @@
+{
+  "formatVersion": 1,
+  "id": "millsage",
+  "enabled": false,
+  "actors": [
+    { "id": "ms_mahoro", "displayName": "滨崎茉幌", "portrait": "" },
+    { "id": "ms_nagi", "displayName": "琴平凪", "portrait": "" },
+    { "id": "ms_houka", "displayName": "和泉朋花", "portrait": "" },
+    { "id": "ms_natsume", "displayName": "伊泽枣", "portrait": "" },
+    { "id": "ms_hotaru", "displayName": "汐见萤", "portrait": "" }
+  ],
+  "chapters": [
+    { "id": "act_01", "title": "" },
+    { "id": "act_02", "title": "" },
+    { "id": "act_03", "title": "" },
+    { "id": "act_04", "title": "" }
+  ],
+  "scenes": [
+    { "id": "ms_scene_001", "chapterId": "act_01", "status": "draft", "context": "counter", "participants": [], "entry": "", "nodes": [] },
+    { "id": "ms_scene_002", "chapterId": "act_02", "status": "draft", "context": "counter", "participants": [], "entry": "", "nodes": [] },
+    { "id": "ms_scene_003", "chapterId": "act_03", "status": "draft", "context": "night", "participants": [], "entry": "", "nodes": [] },
+    { "id": "ms_scene_004", "chapterId": "act_04", "status": "draft", "context": "night", "participants": [], "entry": "", "nodes": [] }
+  ]
+}

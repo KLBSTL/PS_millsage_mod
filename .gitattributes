@@ -1,0 +1,3 @@
+* text=auto eol=lf
+/ModDevelopment/ResourceStoryMod/Content/** -text
+*.png binary

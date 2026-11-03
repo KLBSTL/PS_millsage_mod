@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "height": 2048,
+  "continuousLive2D": false,
+  "kind": "offline_existing_expression_frames",
+  "entries": [],
+  "backgrounds": [
+    {
+      "id": "greenroom",
+      "file": "backgrounds/greenroom.png",
+      "pixelArtFile": "backgrounds/greenroom-pixel-5d28eadd7df68875.png",
+      "pixelArtSha256": "5D28EADD7DF68875C45B2B0A4F743A2B44F04126289F0E7E6CB6DA64E88FA39E",
+      "pixelArtPrompt": "将星环大厅后台重绘为低饱和工业像素画，保留居中的棕色沙发、暖灯、声学墙、舷窗与边侧乐器箱，背景内无人物和文字。",
+      "sha256": "02E8601F05CC70C5F8E15860F312993B056A337D4A201144D40192FB368E98B2",
+      "source": "ModWorkbench/res/tools/images/livehouse-interior-20261024/original/livehouse-greenroom-v0_1.png",
+      "generatedCandidate": true
+    },
+    {
+      "id": "stage",
+      "file": "backgrounds/stage.png",
+      "sha256": "53C263C68E8729EBC579909DD04FA78ABE85D9316764CD0DB0F5B5DE81D9EF9D",
+      "source": "ModWorkbench/res/tools/images/livehouse-stage-20261024/original/livehouse-stage-v0_1.png",
+      "generatedCandidate": true
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "version": 1,
+  "dialogueRewritten": false,
+  "nativeInteractionUnchanged": true,
+  "entries": [
+    {
+      "sku": "ms_story_diamond_pick",
+      "width": 1,
+      "height": 2,
+      "kind": "pick"
+    },
+    {
+      "sku": "ms_story_handdrawn_flyer",
+      "width": 2,
+      "height": 2,
+      "kind": "flyer"
+    },
+    {
+      "sku": "ms_story_crew_pass",
+      "width": 2,
+      "height": 2,
+      "kind": "pass"
+    },
+    {
+      "sku": "ms_houka_stage_drum",
+      "width": 8,
+      "height": 4,
+      "file": "items/drums.png",
+      "sha256": "B52ECF80AE82C93EAE763371F654BE74579504E687CDB73C62DF6390CC756E3B",
+      "rotate": 0,
+      "sourceRect": [
+        65,
+        73,
+        1660,
+        731
+      ]
+    },
+    {
+      "sku": "ms_story_keybed_sketch",
+      "width": 2,
+      "height": 2,
+      "kind": "sketch"
+    },
+    {
+      "sku": "ms_kanata_keychain",
+      "width": 2,
+      "height": 2,
+      "file": "items/keychain.png",
+      "sha256": "AE68CB9C95E9CC8F63FBCD977C79F28F84516CC1F953B906C1AF41CA14A3E1E7",
+      "rotate": 0,
+      "sourceRect": [
+        97,
+        42,
+        1060,
+        1099
+      ]
+    },
+    {
+      "sku": "ms_story_diary_readout_card",
+      "width": 2,
+      "height": 2,
+      "kind": "receipt"
+    },
+    {
+      "sku": "ms_story_prelim_master_tape",
+      "width": 2,
+      "height": 2,
+      "kind": "tape-prelim"
+    },
+    {
+      "sku": "ms_story_final_master_tape",
+      "width": 2,
+      "height": 2,
+      "kind": "tape-final"
+    },
+    {
+      "sku": "ms_story_overdrive_pedal",
+      "width": 2,
+      "height": 3,
+      "kind": "pedal"
+    },
+    {
+      "sku": "ms_hotaru_farewell_tin",
+      "width": 3,
+      "height": 2,
+      "file": "items/tin.png",
+      "sha256": "BACAC7C4AE84B80668E08449D8363B4B24587C79063FDDBBABAC003E8FEACF93",
+      "rotate": 0,
+      "sourceRect": [
+        82,
+        155,
+        1394,
+        812
+      ]
+    },
+    {
+      "sku": "ms_story_everscape_score",
+      "width": 2,
+      "height": 2,
+      "kind": "score"
+    },
+    {
+      "sku": "ms_story_stage_transport_case",
+      "width": 4,
+      "height": 4,
+      "file": "items/stage-case.png",
+      "sha256": "48DC705B1AB47CE28E115E3ED5596B357DAA49EB6C351331F1947D93554BC42A",
+      "rotate": 0,
+      "sourceRect": [
+        98,
+        68,
+        1341,
+        908
+      ]
+    },
+    {
+      "sku": "ms_story_chilled_apples",
+      "width": 2,
+      "height": 2,
+      "kind": "apples"
+    },
+    {
+      "sku": "ms_story_departure_receipt",
+      "width": 2,
+      "height": 2,
+      "kind": "receipt"
+    },
+    {
+      "sku": "ms_story_champion_trophy",
+      "width": 3,
+      "height": 4,
+      "file": "items/trophy.png",
+      "sha256": "E1A5CAB7152AC334914C9A8B54E19F610904C16A56BEE8B10BA9E2CFA64C3B92",
+      "rotate": 0,
+      "sourceRect": [
+        208,
+        12,
+        670,
+        1416
+      ]
+    },
+    {
+      "sku": "ms_story_commemorative_vinyl",
+      "width": 3,
+      "height": 3,
+      "kind": "record"
+    },
+    {
+      "sku": "ms_story_hotaru_note",
+      "width": 2,
+      "height": 2,
+      "kind": "note"
+    },
+    {
+      "sku": "ms_gear_stage_mic",
+      "width": 2,
+      "height": 3,
+      "kind": "mic"
+    },
+    {
+      "sku": "ms_strings_bass5_nickel",
+      "width": 1,
+      "height": 2,
+      "kind": "strings-bass"
+    },
+    {
+      "sku": "ms_part_hammer_weights",
+      "width": 2,
+      "height": 2,
+      "kind": "weights"
+    },
+    {
+      "sku": "ms_part_blank_tape",
+      "width": 2,
+      "height": 2,
+      "kind": "tape-blank"
+    },
+    {
+      "sku": "ms_story_lost_property_box",
+      "width": 3,
+      "height": 2,
+      "kind": "lostbox"
+    }
+  ]
+}

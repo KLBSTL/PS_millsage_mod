@@ -1,0 +1,435 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "sku": "ms_case_document_box",
+      "width": 4,
+      "height": 4,
+      "file": "items/ms_case_document_box-26314bca0d3e35b5.png",
+      "sha256": "26314BCA0D3E35B5B049E83C30C9FFF52375220E9B2E48BAC43AF77B4F04C4FC",
+      "sourceRect": [
+        60,
+        85,
+        1133,
+        1093
+      ],
+      "rotate": 0,
+      "reviewed": true,
+      "source": "res/tools/images/p19-20261028/ms_case_document_box-26314bca0d3e35b5.png"
+    },
+    {
+      "sku": "ms_case_guitar_case",
+      "width": 4,
+      "height": 8,
+      "file": "items/ms_case_guitar_case-fcae0d439ae063db.png",
+      "sha256": "FCAE0D439AE063DBF2C183226151FA1196DD10A93589F49964EE96AB9231106C",
+      "sourceRect": [
+        380,
+        82,
+        493,
+        1062
+      ],
+      "rotate": 0,
+      "reviewed": true,
+      "source": "res/tools/images/p19-20261028/ms_case_guitar_case-fcae0d439ae063db.png"
+    },
+    {
+      "sku": "ms_case_parts_box",
+      "width": 4,
+      "height": 3,
+      "file": "items/ms_case_parts_box-67a48d5557824f5e.png",
+      "sha256": "67A48D5557824F5EB720838B766B77732CB2F8B146712915C3716E653DCFAEA0",
+      "sourceRect": [
+        145,
+        336,
+        965,
+        599
+      ],
+      "rotate": 0,
+      "reviewed": true,
+      "source": "res/tools/images/p19-20261028/ms_case_parts_box-67a48d5557824f5e.png"
+    },
+    {
+      "sku": "ms_gear_custom_overdrive",
+      "width": 2,
+      "height": 3,
+      "file": "items/ms_gear_custom_overdrive-6d253f37c1af5fb8.png",
+      "sha256": "6D253F37C1AF5FB8FB3D01EE7785955BE4CC831FAF4449621A1902D624CF52AB",
+      "sourceRect": [
+        48,
+        122,
+        928,
+        1291
+      ],
+      "rotate": 0,
+      "reviewed": true,
+      "source": "res/tools/images/p19-20261028/ms_gear_custom_overdrive-6d253f37c1af5fb8.png"
+    },
+    {
+      "sku": "ms_gear_drum_practice_pad",
+      "width": 4,
+      "height": 4,
+      "file": "items/ms_gear_drum_practice_pad-eea48077bfaa4064.png",
+      "sha256": "EEA48077BFAA406492E9394E6F202837CE9D4AA7EB8AFB7A24C7DD3B3DB6BC01",
+      "sourceRect": [
+        57,
+        146,
+        1140,
+        1011
+      ],
+      "rotate": 0,
+      "reviewed": true,
+      "source": "res/tools/images/p19-20261028/ms_gear_drum_practice_pad-eea48077bfaa4064.png"
+    },
+    {
+      "sku": "ms_gear_headphone_amp",
+      "width": 2,
+      "height": 3,
+      "file": "items/ms_gear_headphone_amp-7d897da9b66980ad.png",
+      "sha256": "7D897DA9B66980AD5BCEEC521238C8262951D94E0AF5FBCEE3A006E8BB36EBC5",
+      "sourceRect": [
+        296,
+        50,
+        663,
+        1155
+      ],
+      "rotate": 0,
+      "reviewed": true,
+      "source": "res/tools/images/p19-20261028/ms_gear_headphone_amp-7d897da9b66980ad.png"
+    },
+    {
+      "sku": "ms_gear_monitor_speaker",
+      "width": 4,
+      "height": 4,
+      "file": "items/ms_gear_monitor_speaker-492bd42519b53dd0.png",
+      "sha256": "492BD42519B53DD053AB905D704D5C4ADCD20AA69DB6F67383CA096DD65D48B1",
+      "sourceRect": [
+        76,
+        76,
+        1103,
+        1107
+      ],
+      "rotate": 0,
+      "reviewed": true,
+      "source": "res/tools/images/p19-20261028/ms_gear_monitor_speaker-492bd42519b53dd0.png"
+    },
+    {
+      "sku": "ms_item_balanced_cable",
+      "width": 1,
+      "height": 3,
+      "file": "items/ms_item_balanced_cable-9d615f2bf6f28437.png",
+      "sha256": "9D615F2BF6F2843730C38E1043236A6D4B8B89711536DECB9A80368BDAC87AD2",
+      "sourceRect": [
+        460,
+        35,
+        341,
+        1184
+      ],
+      "rotate": 0,
+      "reviewed": true,
+      "source": "res/tools/images/p19-20261028/ms_item_balanced_cable-9d615f2bf6f28437.png"
+    },
+    {
+      "sku": "ms_material_acoustic_mesh",
+      "width": 2,
+      "height": 2,
+      "file": "items/ms_material_acoustic_mesh-a6091736f4bb52d7.png",
+      "sha256": "A6091736F4BB52D72295FBC2760990099FCE289BD5F570EA068CDF23D1D4008A",
+      "sourceRect": [
+        32,
+        134,
+        1192,
+        1079
+      ],
+      "rotate": 0,
+      "reviewed": true,
+      "source": "res/tools/images/p19-20261028/ms_material_acoustic_mesh-a6091736f4bb52d7.png"
+    },
+    {
+      "sku": "ms_material_archival_paper",
+      "width": 2,
+      "height": 2,
+      "kind": "archival-paper",
+      "reviewed": true
+    },
+    {
+      "sku": "ms_material_ferrite_core",
+      "width": 1,
+      "height": 2,
+      "file": "items/ms_material_ferrite_core-12d2709b3bb01523.png",
+      "sha256": "12D2709B3BB015232ED9659B18F16EC605F5409E20B3A9BD8912FE2CE4EBD29B",
+      "sourceRect": [
+        380,
+        152,
+        494,
+        996
+      ],
+      "rotate": 0,
+      "reviewed": true,
+      "source": "res/tools/images/p19-20261028/ms_material_ferrite_core-12d2709b3bb01523.png"
+    },
+    {
+      "sku": "ms_material_insulation_tube",
+      "width": 1,
+      "height": 2,
+      "file": "items/ms_material_insulation_tube-bfd322db773e141e.png",
+      "sha256": "BFD322DB773E141E2FF8F3AA4DCCAAD7FCB89AB4E64BA9959FD9FE27123E4AB2",
+      "sourceRect": [
+        412,
+        26,
+        453,
+        1209
+      ],
+      "rotate": 0,
+      "reviewed": true,
+      "source": "res/tools/images/p19-20261028/ms_material_insulation_tube-bfd322db773e141e.png"
+    },
+    {
+      "sku": "ms_module_balanced_out",
+      "width": 2,
+      "height": 2,
+      "file": "items/ms_module_balanced_out-f5b17d755dcdf97a.png",
+      "sha256": "F5B17D755DCDF97A1FE4D74623510515B611EA42161AC6A7D02901FB4C128565",
+      "sourceRect": [
+        128,
+        125,
+        1008,
+        1011
+      ],
+      "rotate": 0,
+      "reviewed": true,
+      "source": "res/tools/images/p19-20261028/ms_module_balanced_out-f5b17d755dcdf97a.png"
+    },
+    {
+      "sku": "ms_module_quick_patch",
+      "width": 2,
+      "height": 2,
+      "file": "items/ms_module_quick_patch-e3fe209480f78dc6.png",
+      "sha256": "E3FE209480F78DC60F9A02A586F08AA93D81B593B04727C6D488E1565F1BF6B5",
+      "sourceRect": [
+        79,
+        261,
+        1096,
+        753
+      ],
+      "rotate": 0,
+      "reviewed": true,
+      "source": "res/tools/images/p19-20261028/ms_module_quick_patch-e3fe209480f78dc6.png"
+    },
+    {
+      "sku": "ms_module_quiet_power",
+      "width": 2,
+      "height": 2,
+      "file": "items/ms_module_quiet_power-ac5b3f298efe3323.png",
+      "sha256": "AC5B3F298EFE332314E7C481201B97F5A5171A7D6A1266C8260EDD0C8B94A9E4",
+      "sourceRect": [
+        88,
+        127,
+        1103,
+        1021
+      ],
+      "rotate": 0,
+      "reviewed": true,
+      "source": "res/tools/images/p19-20261028/ms_module_quiet_power-ac5b3f298efe3323.png"
+    },
+    {
+      "sku": "ms_module_reference_input",
+      "width": 2,
+      "height": 2,
+      "file": "items/ms_module_reference_input-db1dec1c3b01c656.png",
+      "sha256": "DB1DEC1C3B01C65665BE6C04DDDFB1941DAB8B9D86C9416403C35178AB38BFBF",
+      "sourceRect": [
+        22,
+        158,
+        1211,
+        938
+      ],
+      "rotate": 0,
+      "reviewed": true,
+      "source": "res/tools/images/p19-20261028/ms_module_reference_input-db1dec1c3b01c656.png"
+    },
+    {
+      "sku": "ms_module_stable_bus",
+      "width": 2,
+      "height": 2,
+      "file": "items/ms_module_stable_bus-d5ae47ab2f563c03.png",
+      "sha256": "D5AE47AB2F563C030567F974313950DBE8059EC1C8E5DD46BCAD9F9800566EC2",
+      "sourceRect": [
+        38,
+        161,
+        1177,
+        944
+      ],
+      "rotate": 0,
+      "reviewed": true,
+      "source": "res/tools/images/p19-20261028/ms_module_stable_bus-d5ae47ab2f563c03.png"
+    },
+    {
+      "sku": "ms_module_tone_filter",
+      "width": 2,
+      "height": 2,
+      "file": "items/ms_module_tone_filter-45bba0785fd25d33.png",
+      "sha256": "45BBA0785FD25D3355CA40B87DBE79F27139F0CF042960CE37F05C5C55582937",
+      "sourceRect": [
+        54,
+        148,
+        1147,
+        933
+      ],
+      "rotate": 0,
+      "reviewed": true,
+      "source": "res/tools/images/p19-20261028/ms_module_tone_filter-45bba0785fd25d33.png"
+    },
+    {
+      "sku": "ms_part_capacitor",
+      "width": 1,
+      "height": 2,
+      "file": "items/ms_part_capacitor-86481fe720ea9b98.png",
+      "sha256": "86481FE720EA9B988AEEBFE1606F5B500A1281923F9E2662B757B2428A3DF5BE",
+      "sourceRect": [
+        398,
+        35,
+        458,
+        1184
+      ],
+      "rotate": 0,
+      "reviewed": true,
+      "source": "res/tools/images/p19-20261028/ms_part_capacitor-86481fe720ea9b98.png"
+    },
+    {
+      "sku": "ms_part_case_panel_set",
+      "width": 3,
+      "height": 2,
+      "file": "items/ms_part_case_panel_set-8febaf3f91d54fbf.png",
+      "sha256": "8FEBAF3F91D54FBFF2671ACABE2C99E575D330C94028094A6BFC64C2F63AF5D1",
+      "sourceRect": [
+        24,
+        320,
+        1208,
+        650
+      ],
+      "rotate": 0,
+      "reviewed": true,
+      "source": "res/tools/images/p19-20261028/ms_part_case_panel_set-8febaf3f91d54fbf.png"
+    },
+    {
+      "sku": "ms_part_isolation_transformer",
+      "width": 1,
+      "height": 2,
+      "file": "items/ms_part_isolation_transformer-b4b0f5a03092693d.png",
+      "sha256": "B4B0F5A03092693DB07E13329B395181434CCA9A0AC29DD9B2E811E2B4EA1DA9",
+      "sourceRect": [
+        310,
+        61,
+        634,
+        1127
+      ],
+      "rotate": 0,
+      "reviewed": true,
+      "source": "res/tools/images/p19-20261028/ms_part_isolation_transformer-b4b0f5a03092693d.png"
+    },
+    {
+      "sku": "ms_part_patch_jack",
+      "width": 1,
+      "height": 2,
+      "file": "items/ms_part_patch_jack-8901fb0c3dabec4f.png",
+      "sha256": "8901FB0C3DABEC4F6DDF5E700BD1D5C00FC2315AA9A5DAB2F21A8E319DAE1A4B",
+      "sourceRect": [
+        329,
+        47,
+        596,
+        1154
+      ],
+      "rotate": 0,
+      "reviewed": true,
+      "source": "res/tools/images/p19-20261028/ms_part_patch_jack-8901fb0c3dabec4f.png"
+    },
+    {
+      "sku": "ms_part_pedal_housing",
+      "width": 2,
+      "height": 3,
+      "file": "items/ms_part_pedal_housing-d936c3498406f4e2.png",
+      "sha256": "D936C3498406F4E273C62E405D35309A0563D10975A1E00685F1795A3C614B54",
+      "sourceRect": [
+        194,
+        41,
+        866,
+        1175
+      ],
+      "rotate": 0,
+      "reviewed": true,
+      "source": "res/tools/images/p19-20261028/ms_part_pedal_housing-d936c3498406f4e2.png"
+    },
+    {
+      "sku": "ms_part_refurb_control_board",
+      "width": 3,
+      "height": 2,
+      "file": "items/ms_part_refurb_control_board-de34569983fffa6b.png",
+      "sha256": "DE34569983FFFA6B2A19D1C727BD8129C748A9A10C7BEA9FA23837FD0EAACC46",
+      "sourceRect": [
+        38,
+        290,
+        1178,
+        700
+      ],
+      "rotate": 0,
+      "reviewed": true,
+      "source": "res/tools/images/p19-20261028/ms_part_refurb_control_board-de34569983fffa6b.png"
+    },
+    {
+      "sku": "ms_part_shielding_liner",
+      "width": 1,
+      "height": 2,
+      "file": "items/ms_part_shielding_liner-dbfdf3dd1689ea04.png",
+      "sha256": "DBFDF3DD1689EA047A281BABACA76B101DCD51919074EBBC06183457D1C296AF",
+      "sourceRect": [
+        330,
+        35,
+        676,
+        1181
+      ],
+      "rotate": 0,
+      "reviewed": true,
+      "source": "res/tools/images/p19-20261028/ms_part_shielding_liner-dbfdf3dd1689ea04.png"
+    },
+    {
+      "sku": "ms_part_speaker_driver",
+      "width": 2,
+      "height": 2,
+      "file": "items/ms_part_speaker_driver-e0e7edfbc64a0788.png",
+      "sha256": "E0E7EDFBC64A0788FB21F9D35703754B9216442AF0854FB04A69C3F4A7616A36",
+      "sourceRect": [
+        46,
+        83,
+        1163,
+        1115
+      ],
+      "rotate": 0,
+      "reviewed": true,
+      "source": "res/tools/images/p19-20261028/ms_part_speaker_driver-e0e7edfbc64a0788.png"
+    },
+    {
+      "sku": "ms_part_stabilizer_pickup_commercial",
+      "width": 2,
+      "height": 2,
+      "kind": "commercial-pickup",
+      "reviewed": true
+    },
+    {
+      "sku": "ms_part_xlr_socket",
+      "width": 1,
+      "height": 2,
+      "file": "items/ms_part_xlr_socket-86c0409be42695a5.png",
+      "sha256": "86C0409BE42695A5C2DCA3E75542265A12770B52CC65FD874D6EAD19CE317FD6",
+      "sourceRect": [
+        354,
+        40,
+        617,
+        1176
+      ],
+      "rotate": 0,
+      "reviewed": true,
+      "source": "res/tools/images/p19-20261028/ms_part_xlr_socket-86c0409be42695a5.png"
+    }
+  ]
+}

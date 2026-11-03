@@ -1,0 +1,7 @@
+/dist/
+/build/
+*.user
+*.es3
+*.log
+**/bin/
+**/obj/

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "members": [
+    { "actorId": "ms_mahoro", "initialBalance": 400, "dailyNetIncome": 80 },
+    { "actorId": "ms_nagi", "initialBalance": 600, "dailyNetIncome": 100 },
+    { "actorId": "ms_natsume", "initialBalance": 300, "dailyNetIncome": 70 },
+    { "actorId": "ms_houka", "initialBalance": 700, "dailyNetIncome": 110 },
+    { "actorId": "ms_hotaru", "initialBalance": 350, "dailyNetIncome": 60 }
+  ],
+  "livePayouts": {
+    "ms_scene_010": 80,
+    "ms_scene_016": 200,
+    "ms_scene_025": 400,
+    "ms_scene_030": 600
+  }
+}
